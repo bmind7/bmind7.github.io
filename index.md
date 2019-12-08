@@ -2,43 +2,35 @@
 
 ### Gloomhaven (PC game)
 Digital version on #1 ranked board game ported to PC
-[Steam Link] (https://store.steampowered.com/app/780290/Gloomhaven/)
+[Steam Link](https://store.steampowered.com/app/780290/Gloomhaven/)
 
+### Fast Diamond rendering
+Usually diamonds are hard to render because of amount of relfectioins inside the stone. I've came up with technique where the most expensive part of ray marching is prebaked. Not totally physcially accurate, but gives decent result and can be used on mobile.
+[Video](https://www.youtube.com/watch?v=QhaIey5NpU4)
 
-## Welcome to GitHub Pages
+### Star Trek: Fleet Command
+Top rated AAA mobile MMO which surpassed 100M in revenue.
+[Google Play](https://play.google.com/store/apps/details?id=com.scopely.startrek)/[AppStore](https://apps.apple.com/us/app/star-trek-fleet-command/id1427744264)
 
-You can use the [editor on GitHub](https://github.com/bmind7/bmind7.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Shaders
+[Water Shader Video](https://www.youtube.com/watch?v=4CH18n9BaHk)
+[Grass Shader Video](https://www.youtube.com/watch?v=luaOsx4D6Mg)
+[Anamorphic Lens Flares 2](https://www.youtube.com/watch?v=OcHSjilf0Ro)|[Regualr Lens Flares](https://www.youtube.com/watch?v=ZTKknM9ZLHs)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Multiplayer VR shooter
+One on One multiplayer shooter prototype for SteamVR
+[Video](https://www.youtube.com/watch?v=ULLfdxCKtxs)
 
-### Markdown
+### 15 mini-games for mobile
+They were created during 2 years of indie development, some examples:
+[Space infinit runner](https://www.youtube.com/watch?v=H2VBUxKPD08)
+[Scratch lotto](https://www.youtube.com/watch?v=x1xNSFUhiew)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Freelance projects
+All assets where provided by employer
+[Mobile driving game (google play)](https://play.google.com/store/apps/details?id=com.i6.policecardrivingacademy)
+[Mobile snaper game (google play)](https://play.google.com/store/apps/details?id=com.i6.SniperShooter3dFree)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bmind7/bmind7.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### SalesDoubler CPA network
+Create bespoke CPA management and traffic management ecosystem from scratch.
+[Website](https://www.salesdoubler.com.ua/)
