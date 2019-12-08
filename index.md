@@ -28,7 +28,7 @@ One on One multiplayer shooter prototype for SteamVR
 [Video](https://www.youtube.com/watch?v=ULLfdxCKtxs)
 
 ### 15 mini-games for mobile
-They were created during 2 years of indie development, some examples:
+They were created during 2 years of indie development, two examples:
 
 [Space infinit runner](https://www.youtube.com/watch?v=H2VBUxKPD08)
 
@@ -42,6 +42,6 @@ All assets where provided by employer
 [Mobile snaper game (google play)](https://play.google.com/store/apps/details?id=com.i6.SniperShooter3dFree)
 
 ### SalesDoubler CPA network
-Create bespoke CPA management and traffic management ecosystem from scratch.
+Created bespoke CPA and traffic management ecosystem from scratch.
 
 [Website](https://www.salesdoubler.com.ua/)
