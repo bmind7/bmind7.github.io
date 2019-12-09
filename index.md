@@ -1,4 +1,4 @@
-## Portfolio Page - Viktor Zatorskyi
+## Portfolio Page - Viktor Zatorskyi (in chronological order)
 
 ### Gloomhaven
 Digital version on #1 ranked board game ported to PC
