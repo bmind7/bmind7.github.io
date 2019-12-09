@@ -1,8 +1,12 @@
 ## Portfolio Page - Viktor Zatorskyi
 
-### Gloomhaven (PC game)
+### Gloomhaven
 Digital version on #1 ranked board game ported to PC
 - [Steam Link](https://store.steampowered.com/app/780290/Gloomhaven/)
+
+### Karma Reader App (Pet project)
+Simple app for tarot reading
+- [GooglePlay](https://play.google.com/store/apps/details?id=com.virtualpsychics.KarmaReader&hl=en_US)
 
 ### Fast Diamond rendering
 Usually diamonds are hard to render because of amount of relfectioins inside the stone. I've came up with technique where the most expensive part of ray marching is prebaked. Not totally physcially accurate, but gives decent result and can be used on mobile.
