@@ -1,5 +1,9 @@
 ## Portfolio Page - Viktor Zatorskyi (in chronological order)
 
+### Fluid sim performance study
+Various implementations of classical Stam's fluid simulation algorithm (Original, Structs, DOTS, Compute Shaders)
+- [GitHub](https://github.com/bmind7/UnityFluid2D)
+
 ### Gloomhaven
 Digital version on #1 ranked board game ported to PC
 - [Steam Link](https://store.steampowered.com/app/780290/Gloomhaven/)
