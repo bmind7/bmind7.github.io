@@ -1,10 +1,14 @@
 ## Portfolio Page - Viktor Zatorskyi (in chronological order)
 
+### Wave Particles proof of concept
+Partial implementation of original paper by Cem Yuksel
+- [GitHub](https://github.com/bmind7/WaveParticles)
+
 ### Fluid sim performance study
 Various implementations of classical Stam's fluid simulation algorithm (Original, Structs, DOTS, Compute Shaders)
 - [GitHub](https://github.com/bmind7/UnityFluid2D)
 
-### Gloomhaven
+### Gloomhaven (15 months contract)
 Digital version on #1 ranked board game ported to PC
 - [Steam Link](https://store.steampowered.com/app/780290/Gloomhaven/)
 
@@ -16,7 +20,7 @@ Simple app for tarot reading
 Usually diamonds are hard to render because of amount of relfectioins inside the stone. I've came up with technique where the most expensive part of ray marching is prebaked. Not totally physcially accurate, but gives decent result and can be used on mobile.
 - [Video](https://www.youtube.com/watch?v=QhaIey5NpU4)
 
-### Star Trek: Fleet Command
+### Star Trek: Fleet Command (1 year contract)
 Top rated AAA mobile MMO which surpassed 100M in revenue.
 - [Google Play](https://play.google.com/store/apps/details?id=com.scopely.startrek)/[AppStore](https://apps.apple.com/us/app/star-trek-fleet-command/id1427744264)
 
