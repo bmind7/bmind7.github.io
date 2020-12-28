@@ -1,7 +1,7 @@
 ## Portfolio Page - Viktor Zatorskyi (in chronological order)
 
 ### 4 Hyper Casual games prototypes
-They was made and published within a two months time frame 
+They were made and published within a two months time frame 
 [1](https://play.google.com/store/apps/details?id=com.OneBitLab.BitcoinMagnate), [2](https://play.google.com/store/apps/details?id=com.OneBitLab.TapTapTribe), [3](https://play.google.com/store/apps/details?id=com.OneBitLab.MadTennis), [4](https://play.google.com/store/apps/details?id=com.OneBitLab.SticksVsBottles)
 
 ### Wave Particles proof of concept
