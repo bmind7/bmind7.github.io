@@ -1,10 +1,13 @@
 ## Portfolio Page - Viktor Zatorskyi (in chronological order)
 
-### (Currently) Unity Developer at HyperHippo
+### (Currently) Unity Developer at HyperHippo - Since Feb 2021
 - Working on various pre-release projects as a member of core tech team
 - Making shared packages for cross project usage
 
-### Unity HDRP Test
+### Deep learning image banding remover based on Keras & TF - Aug 2021
+- [Jupyter Notebook](https://github.com/bmind7/deeplearning_banding_remover/blob/main/Debander.ipynb)
+
+### Unity HDRP Test - Jan 2021
 I've decided to dip my toe into Unity's HDRP by making a small real-time visualization.
 - [Video](https://www.youtube.com/watch?v=dKFTViOx23s)
 
