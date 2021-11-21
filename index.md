@@ -4,6 +4,9 @@
 - Working on various pre-release projects as a member of core tech team
 - Making shared packages for cross project usage
 
+### Neural net from scratch - Nov 2021
+- [Simple Mnist classifier](https://github.com/bmind7/mnist_from_scratch)
+
 ### Deep learning image banding remover based on Keras & TF - Aug 2021
 - [Jupyter Notebook](https://github.com/bmind7/deeplearning_banding_remover/blob/main/Debander.ipynb)
 
