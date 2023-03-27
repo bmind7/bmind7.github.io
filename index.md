@@ -5,6 +5,9 @@
 - Dungeon Dwarfs - Netflix project
 - Unannounces project in softlaunch
 
+### [petproject] Image Similarity API for Azure Function - Jun 2022
+- [Github Project](https://github.com/bmind7/ImageSimilarityAPI)
+
 ### [petproject] Neural net from scratch - Nov 2021
 - [Simple Mnist classifier](https://github.com/bmind7/mnist_from_scratch)
 
