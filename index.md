@@ -11,7 +11,7 @@
 
 ### [petproject/AL/ML] Prononciation traning app - Feb 2023
 - https://mrspeak.app/ 
-- Azure Cognitive Services, Azure Functions, React
+- Tech: Azure Cognitive Services, Azure Functions, React
 
 ### [petproject/AI/ML] Image Similarity API for Azure Function - Jun 2022
 - [Github Project](https://github.com/bmind7/ImageSimilarityAPI)
