@@ -5,14 +5,25 @@
 - Dungeon Dwarfs - Netflix project
 - Unannounces project in softlaunch
 
-### [petproject] Image Similarity API for Azure Function - Jun 2022
+### [petproject/AI/ML] Neural audio compression - March 2023
+- 64x compression autoencoder to reduce dimensionality for Diffusion Models
+- Tech: PyTorch
+
+### [petproject/AL/ML] Prononciation traning app - Feb 2023
+- https://mrspeak.app/ 
+- Azure Cognitive Services, Azure Functions, React
+
+### [petproject/AI/ML] Image Similarity API for Azure Function - Jun 2022
 - [Github Project](https://github.com/bmind7/ImageSimilarityAPI)
+- Tech: PyTorch, ONNX, Azure
 
-### [petproject] Neural net from scratch - Nov 2021
+### [petproject/AI/ML] Neural net from scratch - Nov 2021
 - [Simple Mnist classifier](https://github.com/bmind7/mnist_from_scratch)
+- Tech: Unity, C#
 
-### [petproject] Deep learning image banding remover based on Keras & TF - Aug 2021
+### [petproject/AI/ML] Deep learning image banding remover based on Keras & TF - Aug 2021
 - [Jupyter Notebook](https://github.com/bmind7/deeplearning_banding_remover/blob/main/Debander.ipynb)
+- Tech: Keras
 
 ### [petproject] Unity HDRP Test - Jan 2021
 I've decided to dip my toe into Unity's HDRP by making a small real-time visualization.
