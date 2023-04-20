@@ -1,4 +1,4 @@
-## Portfolio Page - Viktor Zatorskyi (in chronological order)
+## Portfolio Page - Viktor Zatorskyi
 
 ### [Fulltime] Unity Developer at HyperHippo - Since Feb 2021
 - Designed & Developed interal UI Library
@@ -10,7 +10,7 @@
 - Tech: PyTorch
 
 ### [petproject/AL/ML] Prononciation traning app - Feb 2023
-- https://mrspeak.app/ 
+- [https://mrspeak.app/](https://mrspeak.app/) 
 - Tech: Azure Cognitive Services, Azure Functions, React
 
 ### [petproject/AI/ML] Image Similarity API for Azure Function - Jun 2022
