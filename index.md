@@ -9,7 +9,7 @@
 - 64x compression autoencoder to reduce dimensionality for Diffusion Models
 - Tech: PyTorch
 
-### [petproject/AL/ML] Prononciation traning app - Feb 2023
+### [petproject/AL/ML] Pronunciation traning app - Feb 2023
 - [https://mrspeak.app/](https://mrspeak.app/) 
 - Tech: Azure Cognitive Services, Azure Functions, React
 
