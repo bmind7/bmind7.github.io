@@ -7,6 +7,8 @@ Developing state-of-the-art video denoising software:
 * Optimized inference performance (8x speed up)
 * Working on realistic sensor noise generation (GANs)
 
+### [petproject/AI/ML] Pronunciation trainer [Mr.Speak](https://mrspeak.app/)
+
 ### [Fulltime] Unity Developer at HyperHippo - (26 months)
 - Designed & Developed interal UI Library
 - Dungeon Dwarfs - Netflix project
