@@ -1,9 +1,16 @@
 ## Portfolio Page - Viktor Zatorskyi
 
-### [Fulltime] Unity Developer at HyperHippo - Since Feb 2021
+### [Fulltime] Owner/Tech Director at [ChaosDynamics.AI](https://chaosdynamics.ai/)
+Developing state-of-the-art video denoising software:
+* Researched optimal neural network architecture for denoiser
+* Developed OpenFX plugin to process video in (Davinci Resolve)
+* Optimized inference performance (8x speed up)
+* Working on realistic sensor noise generation (GANs)
+
+### [Fulltime] Unity Developer at HyperHippo - (26 months)
 - Designed & Developed interal UI Library
 - Dungeon Dwarfs - Netflix project
-- Unannounces project in softlaunch
+- Refactored Jenkins build pipeline to improve stability and speed
 
 ### [petproject/AI/ML] Neural audio compression - March 2023
 - 64x compression autoencoder to reduce dimensionality for Diffusion Models
