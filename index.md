@@ -7,7 +7,8 @@ Developing state-of-the-art video denoising software:
 * Optimized inference performance (8x speed up)
 * Working on realistic sensor noise generation (GANs)
 
-### [petproject/AI/ML] Pronunciation trainer [Mr.Speak](https://mrspeak.app/)
+### [petproject/AI/ML] Pronunciation trainer 
+* [Mr.Speak](https://mrspeak.app/)
 
 ### [Fulltime] Unity Developer at HyperHippo - (26 months)
 - Designed & Developed interal UI Library
@@ -17,10 +18,6 @@ Developing state-of-the-art video denoising software:
 ### [petproject/AI/ML] Neural audio compression - March 2023
 - 64x compression autoencoder to reduce dimensionality for Diffusion Models
 - Tech: PyTorch
-
-### [petproject/AL/ML] Pronunciation traning app - Feb 2023
-- [https://mrspeak.app/](https://mrspeak.app/) 
-- Tech: Azure Cognitive Services, Azure Functions, React
 
 ### [petproject/AI/ML] Image Similarity API for Azure Function - Jun 2022
 - [Github Project](https://github.com/bmind7/ImageSimilarityAPI)
