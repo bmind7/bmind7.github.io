@@ -1,6 +1,6 @@
 ## Portfolio Page - Viktor Zatorskyi
 
-### [Fulltime] Owner/Tech Director at [ChaosDynamics.AI](https://chaosdynamics.ai/)
+### [Fulltime] Owner/Software Development Consultant at [ChaosDynamics.AI](https://chaosdynamics.ai/)
 Developing state-of-the-art video denoising software:
 * Researched optimal neural network architecture for denoiser
 * Developed OpenFX plugin to process video in (Davinci Resolve)
