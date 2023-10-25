@@ -1,82 +1,69 @@
 ## Portfolio Page - Viktor Zatorskyi
 
-### [Fulltime] Owner/Software Development Consultant at [ChaosDynamics.AI](https://chaosdynamics.ai/)
-Developing state-of-the-art video denoising software:
-* Researched optimal neural network architecture for denoiser
-* Developed OpenFX plugin to process video in (Davinci Resolve)
-* Optimized inference performance (8x speed up)
-* Working on realistic sensor noise generation (GANs)
+### [2023] AI Video Denoiser
+- [Photon Denoiser](https://chaosdynamics.ai/photon-denoiser/)
+- Tech: PyTorch, C++, OpenFX
 
-### [petproject/AI/ML] Pronunciation trainer 
-* [Mr.Speak](https://mrspeak.app/)
+### [2023] Pronunciation trainer 
+* pet project created for personal needs [Mr.Speak](https://mrspeak.app/)
+- Tech: React, Azure Functions
 
-### [Fulltime] Unity Developer at HyperHippo - (26 months)
-- Designed & Developed interal UI Library
-- Dungeon Dwarfs - Netflix project
-- Refactored Jenkins build pipeline to improve stability and speed
+### [2022] Vacation Tycoon 
+- Participated as generalist programmmer [Link](https://hyperhippo.com/games/vacation-tycoon/)
+- Tech: Unity
 
-### [petproject/AI/ML] Neural audio compression - March 2023
-- 64x compression autoencoder to reduce dimensionality for Diffusion Models
-- Tech: PyTorch
+### [2021] Dungeon Dwarfs for Netflix
+- Created custom UI library [Link](https://hyperhippo.com/games/dungeon-dwarves/)
+- Tech: Unity
 
-### [petproject/AI/ML] Image Similarity API for Azure Function - Jun 2022
+### [2022] Image Similarity API for Azure Function
 - [Github Project](https://github.com/bmind7/ImageSimilarityAPI)
 - Tech: PyTorch, ONNX, Azure
 
-### [petproject/AI/ML] Neural net from scratch - Nov 2021
+### [2021] Neural net from scratch
 - [Simple Mnist classifier](https://github.com/bmind7/mnist_from_scratch)
 - Tech: Unity, C#
 
-### [petproject/AI/ML] Deep learning image banding remover based on Keras & TF - Aug 2021
-- [Jupyter Notebook](https://github.com/bmind7/deeplearning_banding_remover/blob/main/Debander.ipynb)
+### [2021] Deep learning research of image banding remover
+- The code is a mess, just wanted to test an idea of [Jupyter Notebook](https://github.com/bmind7/deeplearning_banding_remover/blob/main/Debander.ipynb)
 - Tech: Keras
-
-### [petproject] Unity HDRP Test - Jan 2021
+- 
+### [2021] Unity HDRP Test 
 I've decided to dip my toe into Unity's HDRP by making a small real-time visualization.
 - [Video](https://www.youtube.com/watch?v=dKFTViOx23s)
+- Tech: Unity
 
-### [petproject] 4 Hyper Casual games prototypes
-They were made and published within a two months time frame 
--  [1](https://play.google.com/store/apps/details?id=com.OneBitLab.BitcoinMagnate), [2](https://play.google.com/store/apps/details?id=com.OneBitLab.TapTapTribe), [3](https://play.google.com/store/apps/details?id=com.OneBitLab.MadTennis), [4](https://play.google.com/store/apps/details?id=com.OneBitLab.SticksVsBottles)
-
-### [petproject] Wave Particles proof of concept
+### [2020] Wave Particles proof of concept
 Partial implementation of original paper by Cem Yuksel
 - [GitHub](https://github.com/bmind7/WaveParticles)
+- Tech: Unity
 
-### [petproject] Fluid sim performance study
+### [2020] Fluid sim performance study in Unity
 Various implementations of classical Stam's fluid simulation algorithm (Original, Structs, DOTS, Compute Shaders)
 - [GitHub](https://github.com/bmind7/UnityFluid2D)
+- Tech: Unity, DOTS, Compute Shaders
 
-### [Contrcat] Gloomhaven (15 months contract)
-Digital version on #1 ranked board game ported to PC
-- [Steam Link](https://store.steampowered.com/app/780290/Gloomhaven/)
+### [2020] Gloomhaven
+- Digital version on #1 ranked board game ported to PC. I was a generalist progreammer touching many areas of development [Steam Link](https://store.steampowered.com/app/780290/Gloomhaven/)
+- Tech: Unity
 
-### [petproject] Fast Diamond rendering
+### [2018] Fast Diamond rendering
 Usually diamonds are hard to render because of amount of relfectioins inside the stone. I've came up with technique where the most expensive part of ray marching is prebaked. Not totally physcially accurate, but gives decent result and can be used on mobile.
 - [Video](https://www.youtube.com/watch?v=QhaIey5NpU4)
+- Tech: Unity
 
-### [Fulltime] Star Trek: Fleet Command (1 year contract)
-Top rated AAA mobile MMO which surpassed 100M in revenue.
-- [Google Play](https://play.google.com/store/apps/details?id=com.scopely.startrek)/[AppStore](https://apps.apple.com/us/app/star-trek-fleet-command/id1427744264)
+### [2017] Star Trek: Fleet Command 
+- AAA mobile MMO. My ares of responsibility were - Graphic/Performance/Tools [Google Play](https://play.google.com/store/apps/details?id=com.scopely.startrek)/[AppStore](https://apps.apple.com/us/app/star-trek-fleet-command/id1427744264)
+- Tech: Unity
 
-### [petproject] Shaders
+### [2016]
 - [Water Shader Video](https://www.youtube.com/watch?v=4CH18n9BaHk)
 - [Grass Shader Video](https://www.youtube.com/watch?v=luaOsx4D6Mg)
 - [Anamorphic Lens Flares 2](https://www.youtube.com/watch?v=OcHSjilf0Ro)
 - [Regualr Lens Flares](https://www.youtube.com/watch?v=ZTKknM9ZLHs)
+- Tech: Unity, HLSL
 
-### [Fulltime] Multiplayer VR shooter
-One on One multiplayer shooter prototype for SteamVR
-- [Video](https://www.youtube.com/watch?v=ULLfdxCKtxs)
+### [2016]
+- One on One multiplayer shooter prototype - [Video](https://www.youtube.com/watch?v=ULLfdxCKtxs)
+- Tech: Unity, HTC Vive
 
-### [Indiedev] 15 mini-games for mobile
-They were created during 2 years of indie development
-
-### Freelance projects
-All assets where provided by employer
-- [Mobile driving game (google play)](https://play.google.com/store/apps/details?id=com.i6.policecardrivingacademy)
-- [Mobile snaper game (google play)](https://play.google.com/store/apps/details?id=com.i6.SniperShooter3dFree)
-
-### SalesDoubler CPA network
-Created bespoke CPA and traffic management ecosystem from scratch.
-- [Website](https://www.salesdoubler.com.ua/)
