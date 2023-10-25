@@ -27,7 +27,7 @@
 ### [2021] Deep learning research of image banding remover
 - The code is a mess, just wanted to test an idea of [Jupyter Notebook](https://github.com/bmind7/deeplearning_banding_remover/blob/main/Debander.ipynb)
 - Tech: Keras
-- 
+
 ### [2021] Unity HDRP Test 
 I've decided to dip my toe into Unity's HDRP by making a small real-time visualization.
 - [Video](https://www.youtube.com/watch?v=dKFTViOx23s)
