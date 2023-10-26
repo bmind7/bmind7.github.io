@@ -5,7 +5,7 @@
 - Tech: PyTorch, C++, OpenFX
 
 ### [2023] Reinforcement Learning Agent Study
-- Train dog-like behaviour [Video](https://www.youtube.com/watch?v=rvlc5Ao7sHE)
+- Trained dog-like behaviour [Video](https://www.youtube.com/watch?v=rvlc5Ao7sHE)
 - Tech: Unity
   
 ### [2023] Pronunciation trainer 
