@@ -1,6 +1,6 @@
 ## Portfolio Page - Viktor Zatorskyi
 
-### [2024] Unannounced casual game
+### [2025] Unannounced casual game
 - idle-clicker mobile game; balance tuned with AI-agent simulation playthrough; AI-aided art pipeline & GenAI marketing materials.
 - Tech: Unity, UI Toolkit
   
