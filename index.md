@@ -5,7 +5,8 @@
 - Tech: Unity, UI Toolkit
   
 ### [2024] Final Automata
-- [https://www.youtube.com/@FinalAutomata](https://www.youtube.com/@FinalAutomata)
+- AI battle-arena of martial-arts robots trained with hierarchical RL
+- [Demo Fight](https://www.youtube.com/watch?v=CqtFg7p_C8k)
 - Tech: Unity, MLAgents, PyTorch
   
 ### [2023] AI Video Denoiser
