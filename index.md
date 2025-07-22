@@ -1,12 +1,16 @@
 ## Portfolio Page - Viktor Zatorskyi
 
+### [2024] Unannounced casual game
+- idle-clicker mobile game; balance tuned with AI-agent simulation playthrough; AI-aided art pipeline & GenAI marketing materials.
+- Tech: Unity, UI Toolkit
+  
+### [2024] Final Automata
+- [https://www.youtube.com/@FinalAutomata](https://www.youtube.com/@FinalAutomata)
+- Tech: Unity, MLAgents, PyTorch
+  
 ### [2023] AI Video Denoiser
 - [Photon Denoiser](https://chaosdynamics.ai/photon-denoiser/)
 - Tech: PyTorch, C++, OpenFX
-
-### [2023] Reinforcement Learning Agent Study
-- Trained dog-like behaviour [Video](https://www.youtube.com/watch?v=rvlc5Ao7sHE)
-- Tech: Unity
   
 ### [2023] Pronunciation trainer 
 * pet project created for personal needs [Mr.Speak](https://mrspeak.app/)
