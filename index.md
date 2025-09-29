@@ -1,16 +1,18 @@
 ## Portfolio Page - Viktor Zatorskyi
 
-### [2025] Unannounced casual game
+  
+### [2023-Ongoing] Final Automata
+- AI battle-arena of martial-arts robots trained with hierarchical RL
+- [Website](https://finalautomata.com/)
+- Tech: Unity, MLAgents, PhysX, PyTorch
+
+### [2025] Power Up Idle
 - idle-clicker mobile game; balance tuned with AI-agent simulation playthrough; AI-aided art pipeline & GenAI marketing materials.
+- [Android](https://play.google.com/store/apps/details?id=com.cdcgames.powerupidle) - [iOS](https://apps.apple.com/us/app/power-up-idle/id6743888264?platform=iphone)
 - Tech: Unity, UI Toolkit
   
-### [2024] Final Automata
-- AI battle-arena of martial-arts robots trained with hierarchical RL
-- [Demo Fight](https://www.youtube.com/watch?v=CqtFg7p_C8k)
-- Tech: Unity, MLAgents, PyTorch
-  
 ### [2023] AI Video Denoiser
-- [Photon Denoiser](https://chaosdynamics.ai/photon-denoiser/)
+- Custom plugin for Davinci Resolve to remove sensor noise
 - Tech: PyTorch, C++, OpenFX
   
 ### [2023] Pronunciation trainer 
