@@ -6,6 +6,10 @@
 - [Website](https://finalautomata.com/)
 - Tech: Unity, MLAgents, PhysX, PyTorch
 
+### [2025] Marvel Snap Simulation with RL Agents
+- [Independent Case Study: Training Reinforcement Learning Agent to Test Marvel Snap CCG Deck Balance](https://chaosdynamics.ai/case-study-ai-playtesting-for-ccg-games.html)
+- Tech: Unity, MLAgents
+
 ### [2025] Power Up Idle
 - idle-clicker mobile game; balance tuned with AI-agent simulation playthrough; AI-aided art pipeline & GenAI marketing materials.
 - [Android](https://play.google.com/store/apps/details?id=com.cdcgames.powerupidle) - [iOS](https://apps.apple.com/us/app/power-up-idle/id6743888264?platform=iphone)
