@@ -1,5 +1,7 @@
 ## Portfolio Page - Viktor Zatorskyi
 
+### [2025] ChaosRL: Zero-dependency autodiff and PPO implementation in Unity
+- [Repo](https://github.com/bmind7/ChaosRL)
   
 ### [2023-Ongoing] Final Automata
 - AI battle-arena of martial-arts robots trained with hierarchical RL
