@@ -1,5 +1,8 @@
 ## Portfolio Page - Viktor Zatorskyi
 
+### [2025] Maritime Autonomy: RL for Surface Vessels
+- [Video Demo](https://www.youtube.com/watch?v=0eptDUnjWuA)
+  
 ### [2025] ChaosRL: Zero-dependency autodiff and PPO implementation in Unity
 - [Repo](https://github.com/bmind7/ChaosRL)
   
